@@ -36,10 +36,15 @@ Feature of backend: From a postal code, it accesses the building details alongsi
 Proposed Features of Frontend (Also reflected in comments in code and demo video):
 
 Data Visualization of Buildings in Singapore
+
 Selected building's features
+
 Comments on its sustainability measures
+
 Benchmarking of surrounding buildings around it (Also visualized in 3D using Verge3D)
+
 Recommendations moving forward
+
 
 3D Map of Singapore's buildings alongside their sustainability scores and efforts.
 
