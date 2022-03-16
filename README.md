@@ -1,4 +1,4 @@
-# Huawei Cloud Spark Hackathon- Team Benchmark
+# Huawei Cloud Spark Hackathon Semifinals - Team Benchmark
 
 # Mockup of Benchmark - Sustainability Insights Platform
 Consists of three folders:
