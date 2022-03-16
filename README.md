@@ -1,5 +1,6 @@
 # Huawei Cloud Spark Hackathon- Team Benchmark
 
+# Mockup of Benchmark - Sustainability Insights Platform
 Consists of three folders:
 1. Client 
 2. Database (Contains sql file and csv files as well.)
