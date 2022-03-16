@@ -7,13 +7,18 @@ Consists of three folders:
 
 # Technologies used:
 Frontend: React, Three.js
+
 Database: MySQL and Huawei Cloud GaussDB
+
 Backend: Node.js, Express.js
 
 # Cloud Integration Services Used:
 Huawei Cloud GaussDB: Data Storage
+
 Huawei Cloud Data Admin Service: Database Control Centre (Management of data, importing of CSVs, etc)
+
 Huawei Cloud Elastic IP: Used to Connect Database to Local server via Public IP.
+
 Huawei Cloud Eye: Data Monitoring and Workload Management
 
 # Link for 3D Mockup (Done using Verge3D and Blender Models):
