@@ -23,6 +23,7 @@ Huawei Cloud Eye: Data Monitoring and Workload Management
 
 # Link for 3D Mockup (Done using Verge3D and Blender Models):
 
+https://v3d.net/4ff
 
 # Remarks
 To access the frontend and backend, please change the directory to client and server,
